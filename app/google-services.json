@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48451532024",
+    "firebase_url": "https://abardatabase.firebaseio.com",
+    "project_id": "abardatabase",
+    "storage_bucket": "abardatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48451532024:android:8437947d0976092899370d",
+        "android_client_info": {
+          "package_name": "com.example.abardatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48451532024-k8bnd16a7tabacig753aolgrjk3hufb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abardatabase",
+            "certificate_hash": "b332695f9f1e194ccb60f5f7551d015345e8cea2"
+          }
+        },
+        {
+          "client_id": "48451532024-3ciutshf6hbgkgn3c78s2smtjhc891bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEb7SVwb4gawhJ60tB6W4hAVns-6phWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48451532024-3ciutshf6hbgkgn3c78s2smtjhc891bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
